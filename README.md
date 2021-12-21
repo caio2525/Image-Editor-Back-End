@@ -1,8 +1,8 @@
 ## About The Project
 This is the front end of an application that provides image processing functionality. Some of the functionalities include adding noise such as Gaussian noise and salt and pepper noise, applying filters such as box filter, gaussian filter and median filter.
 
-![SaltPepperNoise](https://drive.google.com/file/d/1tiLa1LjlD6OQBUa9R_kfWNFZ4TypmVa9/view?usp=sharing)
-![MedianFilter](https://usaupload.com/5yKx/MedianFilter.mp4)
+![SaltPepperNoise](https://s10.gifyu.com/images/saltPepperNoise.gif)
+![MedianFilter](https://s10.gifyu.com/images/MedianFilter.gif)
 
 ### Built With
 * [React.js](https://pt-br.reactjs.org/)
